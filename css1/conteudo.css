@@ -1,0 +1,177 @@
+body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+}
+.parte
+{
+	width: 100%;
+	background-color: #fff;
+	height: 85px;
+}
+main
+{
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+.logo
+{
+	padding: 15px;
+	margin-left: 15%;
+	width: 70%;
+	float: left;
+	margin-top: 10px;
+
+}
+.redes ul li
+{
+	display: inline-block;
+	list-style: none;
+	float: left;
+	padding-right: 15px;
+}
+.redes
+{
+	width: 20%;
+	float: right;
+    margin-right: 10%;
+    margin-top: -75px;
+}
+.mn-interativo ul li{
+	display: inline-block;
+}
+.mn-interativo ul li a{
+	color: #8B008B;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial;
+	text-transform: uppercase;
+	padding-right: 15px;
+}
+.mn-interativo
+{
+    float: left;
+    width: 180%;
+    margin-right: 100%;
+	float: right;
+    margin-top: -60px;
+}
+.mn-interativo ul li a:hover
+{
+	border-bottom: 2px solid #8B008B;
+}
+.menu-urls
+{
+	border-bottom: 2px solid #DCDCDC;
+}
+.conteudo 
+{
+  display: table;
+}
+input[type=text], select {
+  width: 50%;
+  padding: 12px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 40%;
+}
+input[type=submit] {
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 40%;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+  margin-left: 40%;
+}
+.formu {
+  border-radius: 5px;
+  background: linear-gradient(72deg, #8B008B 1%, #C71585 99%);
+  padding: 195px;
+  margin-left: 40%;
+  margin-top: -698px;
+}
+h1
+{
+	margin-left: 39%;
+	color: #fff;
+	font-size: 30px;
+}
+.ft-1
+{
+	margin-top: 2%;
+	margin-left: 25%;
+    margin-bottom: 5%;
+    border: radius 4px;
+    border-radius: 50%;
+}
+.texto-destaque 
+{
+    text-align: center;
+    margin-top: 1%;
+}
+.texto-destaque strong 
+{
+    color: #646464;
+}
+.texto-destaque h1 
+{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+    margin: 0;
+    padding: 0;
+}
+.texto-destaque p 
+{
+    font-size: 15px;
+    color: #9a9a9a;
+}
+.col-3 
+{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px; 
+    width: 29%;
+    float: left;
+    position: relative;
+}
+.bloco-imagem img 
+{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+.bloco-imagem 
+{
+    height: 300px;
+    border: 1px solid #c5c5c5;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+.bloco-imagem b, p 
+{
+    text-align: left;
+}
+.bloco-texto 
+{
+    margin-top: 3em;
+}
+h3 
+{
+    font-weight: normal!important;
+}
